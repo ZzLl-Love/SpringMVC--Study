@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÙˆ¸8Åƒ³ë¾1
+L	java:S106"+Replace this use of System.out by a logger.(°·«ºýÿÿÿÿ8ñ€öê¾1
+L	java:S106"+Replace this use of System.out by a logger.(­ ‘ˆüÿÿÿÿ8ò€öê¾1
+F	java:S106 "+Replace this use of System.out by a logger.(ˆÞ…<8ó€öê¾1
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8ó€öê¾1
